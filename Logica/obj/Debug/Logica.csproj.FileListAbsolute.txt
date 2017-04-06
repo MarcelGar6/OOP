@@ -1,0 +1,6 @@
+D:\Workspaces\Estudos\Logica\bin\Debug\Logica.exe.config
+D:\Workspaces\Estudos\Logica\bin\Debug\Logica.exe
+D:\Workspaces\Estudos\Logica\bin\Debug\Logica.pdb
+D:\Workspaces\Estudos\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Workspaces\Estudos\Logica\obj\Debug\Logica.exe
+D:\Workspaces\Estudos\Logica\obj\Debug\Logica.pdb

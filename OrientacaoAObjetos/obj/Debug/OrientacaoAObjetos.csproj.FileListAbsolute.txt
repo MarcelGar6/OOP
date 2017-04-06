@@ -1,0 +1,12 @@
+D:\Workspaces\Estudos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe.config
+D:\Workspaces\Estudos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.csprojResolveAssemblyReference.cache
+D:\Workspaces\Estudos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe
+D:\Workspaces\Estudos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.pdb
+D:\Workspaces\Estudos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.exe
+D:\Workspaces\Estudos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.pdb
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Visual Studio 2015\Estudos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe.config
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Visual Studio 2015\Estudos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.exe
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Visual Studio 2015\Estudos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.pdb
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Visual Studio 2015\Estudos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.exe
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Visual Studio 2015\Estudos\OrientacaoAObjetos\bin\Debug\OrientacaoAObjetos.pdb
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Visual Studio 2015\Estudos\OrientacaoAObjetos\obj\Debug\OrientacaoAObjetos.csprojResolveAssemblyReference.cache
