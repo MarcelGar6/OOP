@@ -4,3 +4,9 @@ C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Visual Studio 2017\Projects\Ecommerce
 C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Visual Studio 2017\Projects\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.dll
 C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Visual Studio 2017\Projects\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.csprojResolveAssemblyReference.cache
 C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Visual Studio 2017\Projects\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.AssemblyInfo.cs
+D:\Workspaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.deps.json
+D:\Workspaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.runtimeconfig.json
+D:\Workspaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.runtimeconfig.dev.json
+D:\Workspaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.dll
+D:\Workspaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.csprojResolveAssemblyReference.cache
+D:\Workspaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.AssemblyInfo.cs
