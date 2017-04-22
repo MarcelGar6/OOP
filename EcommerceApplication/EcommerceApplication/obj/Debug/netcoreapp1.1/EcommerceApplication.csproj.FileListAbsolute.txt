@@ -10,3 +10,12 @@ D:\Workspaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\ne
 D:\Workspaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.dll
 D:\Workspaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.csprojResolveAssemblyReference.cache
 D:\Workspaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.AssemblyInfo.cs
+C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.deps.json
+C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.runtimeconfig.json
+C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.runtimeconfig.dev.json
+C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.AssemblyInfo.cs
+C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.dll
+C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.pdb
+C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.dll
+C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.pdb

@@ -14,7 +14,7 @@ namespace EcommerceApplication.Models
             Products = new HashSet<Product>();
             SubCategories = new HashSet<SubCategory>();
         }
-        public int Category { get; set; }
+        public int CategoryId { get; set; }
         public string CategoryName { get; set; }
 
         public virtual ICollection<Product> Products { get; set; }
