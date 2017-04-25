@@ -13,6 +13,7 @@ namespace EcommerceApplication.Services.Infrastructure
         void Insert(Category cat);
         void Update(Category cat);
         void Delete(int id);
-
+        int Count();
+        void Save();
     }
 }
