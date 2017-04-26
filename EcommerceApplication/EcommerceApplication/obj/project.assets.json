@@ -10446,15 +10446,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\suporte.DESKTOP-7MHRB0A\\.nuget\\packages\\": {}
+    "C:\\Users\\Marcel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suporte.DESKTOP-7MHRB0A\\Documents\\Estudos\\OOP\\EcommerceApplication\\EcommerceApplication\\EcommerceApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Marcel\\Documents\\Worskpaces\\Estudos\\OOP\\EcommerceApplication\\EcommerceApplication\\EcommerceApplication.csproj",
       "projectName": "EcommerceApplication",
-      "projectPath": "C:\\Users\\suporte.DESKTOP-7MHRB0A\\Documents\\Estudos\\OOP\\EcommerceApplication\\EcommerceApplication\\EcommerceApplication.csproj",
-      "outputPath": "C:\\Users\\suporte.DESKTOP-7MHRB0A\\Documents\\Estudos\\OOP\\EcommerceApplication\\EcommerceApplication\\obj\\",
+      "projectPath": "C:\\Users\\Marcel\\Documents\\Worskpaces\\Estudos\\OOP\\EcommerceApplication\\EcommerceApplication\\EcommerceApplication.csproj",
+      "outputPath": "C:\\Users\\Marcel\\Documents\\Worskpaces\\Estudos\\OOP\\EcommerceApplication\\EcommerceApplication\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
