@@ -19,3 +19,12 @@ C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceA
 C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.pdb
 C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.dll
 C:\Users\Marcel\Documents\Worskpaces\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.pdb
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.deps.json
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.runtimeconfig.json
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.runtimeconfig.dev.json
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.dll
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Estudos\OOP\EcommerceApplication\EcommerceApplication\bin\Debug\netcoreapp1.1\EcommerceApplication.pdb
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.csprojResolveAssemblyReference.cache
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.AssemblyInfo.cs
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.dll
+C:\Users\suporte.DESKTOP-7MHRB0A\Documents\Estudos\OOP\EcommerceApplication\EcommerceApplication\obj\Debug\netcoreapp1.1\EcommerceApplication.pdb
