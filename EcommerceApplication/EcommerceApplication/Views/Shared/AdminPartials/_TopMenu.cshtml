@@ -18,16 +18,45 @@
             </a>
         </div>
         <!-- Logo -->
-
-        <div class="m-l-10" style="width: 220px;float: left;
-    background: #4F5477;"><a class="logo" href="/"><b><img src="/images/happy.jpg" class="img-circle" alt="home" width="60"></b><span style="color:white"><strong>Happy</strong> Code</span></a></div>
-    <ul class="nav navbar-top-links navbar-left hidden-xs"></ul>
-
-
-    <ul class="nav navbar-nav navbar-right">
-        <li><a href="/Account/Register">Register</a></li>
-        <li><a href="/Account/Login">Log in</a></li>
-    </ul>
-
-
-</div>
+        <!-- Search input and toggle icon -->
+        <ul class="nav navbar-top-links navbar-left hidden-xs active">
+            <li><a href="javascript:void(0)" class="open-close hidden-xs waves-effect waves-light"><i
+              class="glyphicon glyphicon-search"></i></a></li>
+            <li class="in">
+                <form role="search" class="app-search hidden-xs">
+                    <input type="text" placeholder="Search..." class="form-control">
+                    <a href="" class="active"><i class="glyphicon glyphicon-search"></i></a>
+                </form>
+            </li>
+        </ul>
+        <!-- This is the message dropdown -->
+        <ul class="nav navbar-top-links navbar-right pull-right">
+            <!-- Message Area -->
+            <li class="dropdown m-r-30">
+                <a class="dropdown-toggle waves-effect waves-light" data-toggle="dropdown" href="#">
+                    <i class="glyphicon glyphicon-envelope"></i>
+                    <div class="notify"><span class="heartbit"></span><span class="point"></span></div>
+                </a>
+                <!-- .dropdown messages -->
+                <ul class="dropdown-menu mailbox">
+                    <li>
+                        <div class="drop-title">You have 3 new messages</div>
+                    </li>
+                    <li>
+                        <div class="message-center">
+                            <a href="#">
+                                <div class="user-img"> <img src="~/images/profile_pic.jpg" alt="user" class="img-circle"> <span
+                           class="profile-status online pull-right"></span></div>
+                                <div class="mail-contnet">
+                                    <h5>Marcel Garcez</h5>
+                                    <span class="mail-desc">You have a new message! </span><span
+                                    class="time">11:30 AM</span>
+                                         </div>
+                                     </a>
+                                 </div>
+                             </li> 
+                             <li><a class="text-center" href="javascript:void(0);"> <strong>Other Messages</
+                               strong> <i class="fa fa-angle-right"></i></a></li>
+                         </ul>
+                        <!-- /.dropdown messages -->
+                    </li>
